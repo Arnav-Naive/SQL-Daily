@@ -12,3 +12,8 @@
 
 # MySQL Transactions and AutoCommit ✅
 
+# JOINs
+12. ✅ 1378. Replace Employee ID With The Unique Identifier
+13. ✅ 1068. Product Sales Analysis I
+14. ✅ 1581. Customer Who Visited but Did Not Make Any Transactions (needed some help here) [IMP]
+15.

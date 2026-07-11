@@ -27,4 +27,10 @@
 3. ✅ 577. Employee Bonus
 4. ✅ 1280. Students and Examinations 🔴 [HARD]
 
+# VIEWS in MySQL ✅
+# MySQL INDEXES ✅
+# Subqueries in MySQL ✅
 
+# GROUP BY and HAVING in MySQL (also ROLLUP) ✅
+1. [Attempted] 570. Managers with at Least 5 Direct Reports  🔴 [HARD]
+2. ✅ 596. Classes With at Least 5 Students

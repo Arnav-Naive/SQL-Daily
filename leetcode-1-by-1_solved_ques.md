@@ -22,15 +22,21 @@
 # SQL UNION and UNION ALL ✅
 
 # Self JOIN in MySQL ✅
+
 1. ✅ 197. Rising Temperature
 2. ✅ 1661. Average Time of Process per Machine 🔴 [HARD]
 3. ✅ 577. Employee Bonus
 4. ✅ 1280. Students and Examinations 🔴 [HARD]
 
 # VIEWS in MySQL ✅
+
 # MySQL INDEXES ✅
+
 # Subqueries in MySQL ✅
 
 # GROUP BY and HAVING in MySQL (also ROLLUP) ✅
-1. [Attempted] 570. Managers with at Least 5 Direct Reports  🔴 [HARD]
-2. ✅ 596. Classes With at Least 5 Students
+
+1. ✅ 596. Classes With at Least 5 Students
+2. ✅ 1050. Actors and Directors Who Cooperated At Least Three Times
+
+3. [Attempted then Done✅] 570. Managers with at Least 5 Direct Reports 🔴 [HARD] (very_good_question!) (Subquery CONCEPT is easier solution)

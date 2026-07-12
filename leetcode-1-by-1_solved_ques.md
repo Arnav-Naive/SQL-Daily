@@ -40,3 +40,16 @@
 2. ✅ 1050. Actors and Directors Who Cooperated At Least Three Times
 
 3. [Attempted then Done✅] 570. Managers with at Least 5 Direct Reports 🔴 [HARD] (very_good_question!) (Subquery CONCEPT is easier solution)
+
+## Pattern: JOIN + GROUP BY + Aggregate
+
+- Jab do tables ko combine karke group pe calculation karni ho
+- JOIN se tables connect karo (ON foreign key)
+- GROUP BY se groups banao
+- Aggregate function (AVG, COUNT, SUM) har group pe apply hoga
+- ROUND() wrap karo agar decimal precision chahiye
+
+Problems:
+
+1. ✅ 1075. Project Employees I
+2. ✅ 1633. Percentage of Users Attended a Contest 🔴 [HARD]  (Needed help here)

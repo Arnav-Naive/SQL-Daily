@@ -53,3 +53,7 @@ Problems:
 
 1. ✅ 1075. Project Employees I
 2. ✅ 1633. Percentage of Users Attended a Contest 🔴 [HARD]  (Needed help here)
+
+## Stored Procedures in MySQL  
+
+## Triggers in MySQL

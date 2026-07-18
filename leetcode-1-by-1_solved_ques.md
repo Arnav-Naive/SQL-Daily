@@ -33,6 +33,8 @@
 # MySQL INDEXES ✅
 
 # Subqueries in MySQL ✅
+1. ✅ 176. Second Highest Salary
+2. ✅ 
 
 # GROUP BY and HAVING in MySQL (also ROLLUP) ✅
 
